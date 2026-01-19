@@ -1,3 +1,11 @@
+<img width="1739" height="925" alt="image" src="https://github.com/user-attachments/assets/e193e4ed-f2f8-4088-a89b-2b69d67ecfb1" />
+
+
+
+
+
+
+
 # 🏠 Airbnb Business Intelligence Dashboard
 
 ## 📌 Resumen Ejecutivo
