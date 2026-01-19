@@ -1,8 +1,6 @@
 # 🏠 Airbnb Business Intelligence Dashboard
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/user-attachments/assets/e57ec6d4-fa5a-4f4e-a601-f5e874b94c52" width="800"/>
-</p>
+![night](https://github.com/user-attachments/assets/e57ec6d4-fa5a-4f4e-a601-f5e874b94c52)
 
 ## 🔗 Enlace al Dashboard
 👉 **[Ver dashboard interactivo en Power BI](https://drive.google.com/file/d/1a1RDwodBU3hD_eVwl0LNGRuLE5jBRZ_m/view)**
