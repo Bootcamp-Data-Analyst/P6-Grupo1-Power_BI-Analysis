@@ -1,18 +1,20 @@
-![night](https://github.com/user-attachments/assets/e57ec6d4-fa5a-4f4e-a601-f5e874b94c52)
-
-
-
-
-
-
 # 🏠 Airbnb Business Intelligence Dashboard
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/user-attachments/assets/e57ec6d4-fa5a-4f4e-a601-f5e874b94c52" width="800"/>
+</p>
+
+## 🔗 Enlace al Dashboard
+👉 **[Ver dashboard interactivo en Power BI](https://drive.google.com/file/d/1a1RDwodBU3hD_eVwl0LNGRuLE5jBRZ_m/view)**
+
 ## 📌 Resumen Ejecutivo
-Este proyecto forma parte de un trabajo **grupal** desarrollado en el contexto académico, simulando el funcionamiento del **departamento de Business Intelligence de una startup data‑driven** especializada en el sector inmobiliario.
+
+Este proyecto forma parte de un trabajo **grupal** desarrollado en el contexto académico, simulando el funcionamiento del **departamento de Business Intelligence de una startup data-driven** especializada en el sector inmobiliario.
 
 El objetivo principal es demostrar nuestra capacidad para **transformar datos brutos de Airbnb en información accionable**, utilizando exclusivamente herramientas nativas de **Microsoft Power BI**, y presentarla mediante dashboards claros, interactivos y orientados a la toma de decisiones.
 
-El proyecto se desarrolla como una prueba conceptual para un cliente ficticio (Airbnb), con el fin de analizar precios, disponibilidad y características de las propiedades en distintas ciudades.
+El proyecto se desarrolla como una prueba conceptual para un cliente ficticio (**Airbnb**), con el fin de analizar precios, disponibilidad y características de las propiedades en distintas ciudades.
+
 
 ---
 
