@@ -32,7 +32,6 @@ El dashboard está diseñado para responder, entre otras, a las siguientes pregu
 
 - ¿Cómo se distribuyen los precios de las propiedades por ciudad y barrio?
 - ¿Qué tipos de propiedad son más comunes y cuáles generan mayor ingreso potencial?
-- ¿Existen patrones temporales en la disponibilidad?
 - ¿Qué zonas presentan mayor concentración de propiedades?
 - ¿Qué diferencias clave existen entre ciudades (benchmarking)?
 
@@ -74,7 +73,6 @@ La solución sigue una arquitectura clásica de BI:
 2. **Modelo de Datos**
    - Separación entre tablas de hechos y dimensiones
    - Relaciones definidas y documentadas
-   - (Si aplica) tabla de calendario
 
 3. **Capa Analítica – DAX**
    - Medidas básicas (totales, promedios, conteos)
@@ -89,9 +87,7 @@ La solución sigue una arquitectura clásica de BI:
 
 ## 📈 Dashboard
 
-El proyecto se materializa en un **único archivo de Power BI**, que centraliza todo el proceso de carga, modelado, análisis y visualización:
-
-📂 **`/powerbi/Proyecto.pbix`**
+El proyecto se materializa en un **único archivo de Power BI**, que centraliza todo el proceso de carga, modelado, análisis y visualización
 
 ### Estado actual del dashboard
 
@@ -136,41 +132,18 @@ Proyecto desarrollado de forma **colaborativa**.
 
 | Miembro | Responsabilidades |
 |--------|------------------|
-| Miembro 1 | ETL y Power Query |
-| Miembro 2 | Modelo de datos y DAX |
-| Miembro 3 | Visualizaciones y UX |
-| Miembro 4 | Insights y documentación |
+| Raul | Modelo de datos y DAX |
+| Daniel | ETL y Power Query |
+| Yeray | Insights y documentación |
+| Alejandro | Visualizaciones y UX  |
 
 *(Los roles pueden solaparse según la contribución real del equipo)*
-
----
-
-## 🗂️ Estructura del Repositorio
-
-```
-/airbnb-bi-project
-│
-├── powerbi/
-│   └── airbnb_dashboard.pbix
-│
-├── docs/
-│   ├── etl.md
-│   ├── modelo-datos.md
-│   ├── medidas-dax.md
-│   └── insights.md
-│
-├── images/
-│   └── dashboard_overview.png
-│
-└── README.md
-```
 
 ---
 
 ## 📌 Gestión del Proyecto
 
 - Metodología: Kanban
-- Herramienta: *(Trello / Jira / GitHub Projects – especificar)*
 
 ---
 
